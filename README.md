@@ -1,6 +1,6 @@
-### Exploratory Data Analysis Project by Python
+# Exploratory Data Analysis Project by Python
 ## Topic : Police shootings in USA
-# Matplotlib and Pandas Implementation
+### Matplotlib and Pandas Implementation
 
 Data collected from the Washington Post. Repository link - https://github.com/washingtonpost/data-police-shootings.
 Our goal was to extract meaningful insights and strengthen data analysis and visualization skills as this was a part of our EEE 4416: Simulation Lab.
