@@ -15,4 +15,4 @@ Our goal was to extract meaningful insights and strengthen data analysis and vis
 * Focused insights on unarmed, underage, and senior victims
 
 ---
-To see the graphs click ![Images](Images)
+To see the EDA report click ![Police Shootings in USA EDA report](police_shootings_EDA.pdf)
